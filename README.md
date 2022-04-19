@@ -21,7 +21,7 @@ Asynchronous programming (this may be a big section)
 
 - Events and Streams (FP2e Chapter 21) 
 
-Packaging and Virtual Environments
+Packaging and Virtual Environments (I think I have a resource for this, so let's skip this for now)
     - Setuptools
     - PyPi
     - PipEnv
