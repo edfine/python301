@@ -21,7 +21,7 @@ Asynchronous programming (this may be a big section)
 
 - Events and Streams (FP2e Chapter 21) 
 
-Packaging and Virtual Environments (I think I have a resource for this, so let's skip this for now)
+Packaging and Virtual Environments (Skip this for now) (reuse lessons from productionalizing notebooks packaging.ipynb)
     - Setuptools
     - PyPi
     - PipEnv
@@ -37,7 +37,7 @@ Connecting to Databases
 Connecting to the Web
     - Django
     - Flask
-    - APIs and microservices
+    - FASTAPI and microservices (Chapter 21)
 
 Network Programming 
     TCP/IP
