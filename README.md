@@ -4,17 +4,27 @@ an advanced python class
 Outline:
 - Intermediate Python Review (skip this for now)
 - Gererators (FP2e ex 2.5) 
-- Decorators
 
-- Coroutines and Asynchio (FP2e Chapter 19 ex 1 - 11 on spinner and primes
+- dataclases (Chapter 5)
+
+
+- Type hinting (FP2e Chapter 8, this section may be large, cover mypy) 
+- Type hints (FP2e Chapter 15, make sure to introduce pydantic)
+
+- Decorators (FP2e Chapter 9)
+- Processing pipelines (not sure how I can include this, suggestions are welcome or skip for now)
+
+
+Asynchronous programming (this may be a big section)
+- Coroutines and Asynchio (FP2e Chapter 19 ex 1 - 11 on spinner and primes, perhaps part of chapters 20 and 21 -see streams below
 )
-- Processing pipelines
-- Events and Streams
+
+- Events and Streams (FP2e Chapter 21) 
 
 Packaging and Virtual Environments
     - Setuptools
     - PyPi
-    - PipEnv and Conda
+    - PipEnv
 
 Context Managers (Moved from Python 201 lesson 10).
 
@@ -35,5 +45,5 @@ Network Programming
     WebSockets
     REST
     
-
+If we need more material I can include existing material on NumPy.
 
