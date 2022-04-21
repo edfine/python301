@@ -2,6 +2,9 @@
 an advanced python class
 
 Outline:
+
+
+General Topics
 - Intermediate Python Review (skip this for now)
 - Gererators (FP2e ex 2.5) 
 
