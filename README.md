@@ -47,3 +47,4 @@ Network Programming
     
 If we need more material I can include existing material on NumPy.
 
+Re
